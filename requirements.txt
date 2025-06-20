@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+joblib
+ccxt
+python-binance
+pandas-ta
+python-dotenv
+tqdm
+matplotlib
