@@ -1,9 +1,11 @@
-# Atlas Trading Bot: A Machine Learning Approach to Crypto Futures
+# Atlas-Technologies
 
-Welcome to the repository for my Binance Futures trading bot! This project is my dive into the world of algorithmic trading, using machine learning to navigate the fast-paced environment of cryptocurrency markets. The bot is designed to perform high-frequency, intraday trades on ETH/USDT perpetual futures.
+<img src="atlas-technologies-logo.png" alt="Atlas-Technologies Logo" width="800"/>
 
-## Core Concept
+## Description
 
+This is a trading bot that uses machine learning to automatically trade ETH/USDT cryptocurrency futures on Binance.
+The project was created as a way to learn about algorithmic trading and quantitative finance. It includes everything from downloading market data and training a predictive model to backtesting the strategy and running it live on a Binance testnet.
 The strategy is built around a `LightGBM` machine learning model that predicts short-term price movements. The bot operates on a cycle of fetching data, generating features, making predictions, and executing trades based on a signal persistence and cooldown logic to filter out market noise and avoid over-trading.
 
 ## Key Features
