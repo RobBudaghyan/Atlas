@@ -1,6 +1,6 @@
 # Atlas
 
-<img src="atlas-logo.png" alt="Atlas-Technologies Logo" width="800"/>
+<img src="atlas-logo.png" width="800"/>
 
 ## Description
 
