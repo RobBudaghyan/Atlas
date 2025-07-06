@@ -1,4 +1,4 @@
-# Atlas-Technologies
+# Atlas
 
 <img src="atlas-technologies-logo.png" alt="Atlas-Technologies Logo" width="800"/>
 
@@ -47,7 +47,7 @@ The project is organized into modular components for clarity and scalability:
 Of course. Here is the project structure formatted in a clean, copy-paste-friendly code block.
 
 ```
-Atlas-Technologies/
+Atlas/
 ├── data/
 ├── features/
 ├── models/
