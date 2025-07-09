@@ -109,3 +109,8 @@ This project was developed as part of my research as a student learning about ma
 * **Use at your own risk.** If you decide to adapt this code for live trading with real capital, you do so at your own risk.
 
 Always be cautious and conduct your own thorough research before deploying any trading bot. Good luck!
+
+## Author Info
+
+- Instagram - [@rob_budaghyan](https://www.instagram.com/rob.budaghyan/)
+- Email - [budaghyan.r@gmail.com](mailto:budaghyan.r@gmail.com)
