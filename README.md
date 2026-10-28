@@ -44,8 +44,6 @@ The model was backtested on data from `2022-01-01` to the present. The results d
 
 The project is organized into modular components for clarity and scalability:
 
-Of course. Here is the project structure formatted in a clean, copy-paste-friendly code block.
-
 ```
 Atlas/
 ├── data/
